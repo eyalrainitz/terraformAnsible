@@ -36,9 +36,9 @@
           NODE_ENV=development
 
           # Okta configuration
-          OKTA_ORG_URL=https://dev-22843547.okta.com/
-          OKTA_CLIENT_ID=0oa1t4lglgld3XX215d7
-          OKTA_CLIENT_SECRET=EoWwR7yc3YsjxwuM4OHrTDMkK6mwwo5I6gEMbHO0
+          OKTA_ORG_URL={dev}
+          OKTA_CLIENT_ID={okta}
+          OKTA_CLIENT_SECRET={secret}
 
           # Host configuration
           PGHOST={{ PGHOSTNAME }}
